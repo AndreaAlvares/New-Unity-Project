@@ -1,2 +1,2 @@
 # SUS:The Hidden Quest
-game
+Game made using unity
